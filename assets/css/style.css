@@ -1,0 +1,61 @@
+.container {
+  background-color: #F3E1DD;
+}
+
+#buttonsHolder {
+text-align: center;
+
+}
+
+header {
+text-align: center;
+display: block;
+margin: 0 auto;
+margin-left: auto;
+margin-right: auto;
+width: 100%;
+height: auto;
+
+
+}
+
+#tvShowSubmit {
+  text-align: center;
+  
+}
+
+#tvShowName {
+    background-color: #CC7178; 
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border: 1px solid #89023E;
+    margin: .5%;
+}
+
+.tvShowButtons {
+  background-color: #CC7178; 
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border: 1px solid #89023E;
+  margin: .5%;
+}
+
+#gifsHolder {
+  text-align: center;
+
+}
+
+.formHolder {
+  text-align: center;
+
+}
+
+
