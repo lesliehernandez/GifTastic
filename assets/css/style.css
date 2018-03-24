@@ -1,5 +1,10 @@
+body {
+  background-color: #F3E1DD;
+}
+
 .container {
   background-color: #F3E1DD;
+  font-family: 'Oxygen', sans-serif;
 }
 
 #buttonsHolder {
@@ -34,6 +39,7 @@ height: auto;
     font-size: 16px;
     border: 1px solid #89023E;
     margin: .5%;
+    font-family: 'Oxygen', sans-serif;
 }
 
 .tvShowButtons {
@@ -46,6 +52,7 @@ height: auto;
   font-size: 16px;
   border: 1px solid #89023E;
   margin: .5%;
+  font-family: 'Oxygen', sans-serif;
 }
 
 #gifsHolder {
@@ -58,4 +65,6 @@ height: auto;
 
 }
 
-
+p {
+  font-family: 'Oxygen', sans-serif;
+}
